@@ -1,0 +1,93 @@
+/* This is a CSS file */
+/* This is a CSS file */
+/*.swiper-container {
+    width: 280px;
+    border-radius:20px;
+
+}
+.swiper-slide{
+    background-color: aqua; 
+    padding:180px 0;
+}*/
+/*header*/
+
+
+
+
+/*main*/
+
+
+#result{
+ margin-top: 80px;
+
+}
+table {
+  padding:20px 15px 20px 15px;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 15px;
+  background-color: #efefef;
+}
+th {
+ /* border: solid 1px #000000;*/
+ padding:8% 0 8% 0;
+ font-size: 250%;
+
+}
+.today{
+  color:#000000;
+  text-decoration:none;
+position: fixed;
+bottom:20%;
+left:47%;
+}
+.lastMonth{
+  position:fixed;
+  top:50%;
+  left:10%;
+  text-decoration:none;
+}
+.nextMonth{
+  position:fixed;
+  top:50%;
+  right:10%;
+  text-decoration:none;
+}
+.tdlink {
+  cursor: pointer;
+  padding: 5px 2px;
+  /* display: block;*/
+}/*
+.tdlink:hover {
+  background-color: #ff0000;
+}*/
+
+
+/*footer*/
+footer{
+  position: fixed;
+  bottom: 0;
+  background-color: #ccc; 
+  margin-left: -10px;
+}
+
+
+.write img{
+ margin-left: 290px;
+margin-bottom: 10px;
+}
+
+.hert img{
+margin-left: 300px;
+margin-bottom: -62px;
+}
+
+.album img{
+margin-left: 175px;
+margin-bottom: 5px;
+}
+
+.omoide img{
+margin-left: -170px;
+margin-bottom:4px;
+}
